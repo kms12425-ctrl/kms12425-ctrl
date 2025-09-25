@@ -32,3 +32,6 @@ Also I am interested in investment. I have traded stocks, ETFs, funds, bonds and
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kms12425-ctrl&show_icons=true&locale=en&layout=compact" alt="kms12425-ctrl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kms12425-ctrl&show_icons=true&locale=en" alt="kms12425-ctrl" /></p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/kms12425-ctrl/kms12425-ctrl/output/snake.svg" alt="Snake animation" style="width: 100%;" />
+</div>
