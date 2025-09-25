@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kms12425-ctrl&show_icons=true&locale=en&layout=compact" alt="kms12425-ctrl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kms12425-ctrl&show_icons=true&locale=en" alt="kms12425-ctrl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kms12425-ctrl&" alt="kms12425-ctrl" /></p>
